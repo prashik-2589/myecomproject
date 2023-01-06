@@ -1,0 +1,13 @@
+01/05/2023 02:29:28 PM: INFO: *********test home page is pass************
+01/05/2023 02:29:42 PM: INFO: *********test login is pass************
+01/05/2023 02:30:35 PM: INFO: **************home page login is failed***************
+01/05/2023 02:30:45 PM: INFO: *********test login is pass************
+01/05/2023 02:38:13 PM: INFO: **************************Test_003_login_ddt test**********************
+01/05/2023 02:38:33 PM: INFO: ***test pass***
+01/05/2023 02:39:08 PM: INFO: ********Login ddt test passed*********
+01/05/2023 02:39:10 PM: INFO: ******* End of Login DDT Test **********
+01/05/2023 02:39:10 PM: INFO: **************** Completed  TC_LoginDDT_002 ************* 
+01/05/2023 02:48:30 PM: INFO: *********test home page is pass************
+01/05/2023 02:48:41 PM: INFO: *********test login is pass************
+01/05/2023 02:54:35 PM: INFO: *********test home page is pass************
+01/05/2023 02:54:44 PM: INFO: *********test login is pass************
